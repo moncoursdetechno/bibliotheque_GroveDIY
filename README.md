@@ -6,7 +6,7 @@ https://disciplines.ac-toulouse.fr/sii/supports-modules-arduino
 
 http://moncoursdetechno.ovh/coin_maker.html
 
-https://github.com/moncoursdetechno/bibliotheque_GroveDIY/IMG/capture_bibliotheque_GroveDIY_14012018.png 
+[aperçu](https://github.com/moncoursdetechno/bibliotheque_GroveDIY/IMG/capture_bibliotheque_GroveDIY_14012018.png)
  
  
 * excepté le shield grove
